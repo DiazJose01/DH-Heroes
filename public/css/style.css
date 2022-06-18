@@ -1,0 +1,68 @@
+body {
+    background-color: #b6b2ae;
+}
+
+button {
+    padding-inline-end: 10px;
+    padding-inline-end: 0 10px;
+}
+#button-danger {
+    background-color: hsl(214, 30%, 85%);
+    border: none;
+    border-radius: 10px;
+} 
+.conteiner{
+    position: relative;
+    left: 320px;
+    bottom: 300px; 
+}
+
+.cajaIndice{
+   position: relative;
+   left: 350px;
+   bottom: 190px;
+}
+.conteinerApariencia{
+    position: relative;
+    bottom: 100px;
+}
+
+.conteinerLisT{
+    position: relative;
+    left: 200px;
+    bottom: 300px;
+}
+
+.conteinerIguro{
+    position: relative;
+    left: 200px;
+    bottom: 290px;
+}
+.coteinerHimejima{
+    position: relative;
+    left: 200px;
+    bottom: 290px;
+}
+
+.conteinerGilgamesh{
+    position: relative;
+    left: 240px;
+    bottom: 250px;
+}
+.conteinerOda{
+    position: relative;
+    left: 240px;
+    bottom: 250px;
+}
+
+.conteinerOru{
+    position: relative;
+    left: 210px;
+    bottom: 250px;
+}
+
+.conterOruIndice{
+    position: relative;
+    left: 210px;
+    bottom: 250px;
+}
